@@ -1,0 +1,147 @@
+nodes:
+  SRP: SHEFFIELD RADICAL PRIDE
+  GL: Gut Level
+  PQA: Peak Queer Adventures
+  SHELTER: Shelter
+  SAR: SHEFFIELD ANTI-RAIDS
+  GABC: GREEN AND BLACK CROSS
+  STU: Sheffield Tenants Union
+  FHC: Fireside Housing Co-op
+  IWGB: IWGB
+  A2T: ARTICLE II TRUST
+  DHC: The Drive Housing Coop (London)
+  NEU: National Education Union
+  GF: Grassroots football
+  CAAT: CAMPAIGN AGAINST ARMS TRADE
+  HJC: Housing Justice Charity
+  STAG: STAG Campaigners (fb group)
+  RLG: Rainbow Local Government
+  IOC: It's Our City (local democracy/governance) www.itsoursheffield.co.uk
+  MU: Mums United
+  GJS: GLOBAL JUSTICE SHEFFIELD
+  ACORN: ACORN
+  NUS: N.U.S.
+  NT: NOW THEN
+  OPUS: OPUS
+  FC: FEARLESS CITIES
+  ULN: UBI LAB NETWORK
+  RDP: RIVER DON PROJECT
+  GO: GIVE OVER
+  FOD: FESTIVAL OF DEBATE
+  PS: Palestine Solidarity
+  SCAIA: Sheffield Coalition against Israeli Apartheid
+  STC: (Street) tree campaigning
+  STRGC: Save the Rose Garden Cafe (Graves Park)
+  HRAS: Harehills riot arrestee support
+  FOBS: Friends of Birley Spa (fb)
+  SOS: Sheffield Oversight and Scrutiny (SOS) sos-sheffield.org.uk
+  TC: Trades Council
+  SOF: Save Owlthorpe fields + lots of other community campaigns
+  LFAGND: Labour for a Green New Deal
+  CAS: Clean Air Sheffield
+  PCSU: PCS Union
+  DFG: Data for Good
+  BLM: Black Lives Matter
+  UTAW: UTAW (Untion of Tech & Allied Workers)
+  SCLT: SHEFFIELD COMMUNITY LAND TRUST!
+  HPC: Hillsborough Park campaigns
+  NCAFC: National Campaign Against fees & cuts
+  SU: Student Union
+  ST: SHEFFIELD TRANSFORMED
+  CC: Chapeltown Cohousing
+  OTJ: Orgreave Truth and Justice
+  VVIDY: VVIDY (Voice for the Voiceless Immigration Detention Yorkshire)
+  SYMAAG: SYMAAG (South Yorkshire Migration & Asylum Action Group)
+  QFC: QTIPOC Film Club
+  LASS: Lesbium Asylum Support Sheffield (LASS)
+  CS: Cooperation Sheffield
+  SKNB: Solidarity Knows No Borders
+  ASSIST: ASSIST
+  BB: Better buses
+  CMF: Conflict mediation & facilitation > trained by Navigate
+  KSN: Kurdish Solidarity Network
+  TTBO: Time to Be Out (LGBTQ asylum)
+  TWMF: These Walls Must Fall
+  KCC: Kurdish Community Centre
+  FGRRC: Fresh Grass Roots Rainbow Community (LGBTQ Asylum)
+  RTP: Reclaim the Power
+  ELMAN: Easy London Mutual Aid Network
+  CWP: Class work project > Leeds redistribution collective
+  CCW: community centre work
+  RL: Rainbow Laces
+  GPEW: GPEW Green Party of England and Wales
+  AME: Australian Marriage Equality
+  AG: Australian Greens
+  OSB: Occupy Student Bar
+  CB: Close Baxter
+  UNITE: Unite the Union
+  JN: Jineologi North
+  PTJ: Practical Transformative Justive workshop facilitation
+  FH: FOOD HALL
+  CPSU: Community & Public Sector Union
+  SWFP: Sheffield Writers for Palestine
+  QFIA: Quaker faith in action
+  FFFP: FFFP (Fractionals for Fair Play)
+  SSTS: Students support the strikes (UCU)
+  SCCFP: Sheffield Campus Coalition for Palestine
+  SUCU: SUCU Aut-Cas
+  UCU: UCU
+  SRTUN: SUPPORTING REGIONAL TRADE UNION NETWORKS
+  DITUFT: DECLINE IN TRADE UNION FACILITY TIME - BARRIER TO ACTIVISM - NEEDS TACKLING
+  UNFP: UNITE NOT-FOR-PROFIT SOUTH YORKSHIRE
+  BC: Ben's Centre
+  NTEU: National Tertiary Education Union
+  ORTU: ORGANISING RETIRED TRADE UNIONISTS
+  MGQVN: MORE GOOD QUALITY VENUES NEEDED FOR HYBRID MEETINGS
+  DTUC: Decolonising the University curriculum
+  UNISON: Unison
+edges:
+  - SRP, PQA
+  - SRP, GL
+  - GL, PQA
+  - GL, SHELTER
+  - GL, STU
+  - GL, TTBO
+  - GL, SAR
+  - PQA, SHELTER
+  - SHELTER, SAR
+  - SHELTER, UNITE
+  - SAR, STU
+  - SAR, DHC
+  - SAR, GABC
+  - SAR, IWGB
+  - SAR, QFC
+  - SAR, SYMAAG
+  - GABC, A2T
+  - GABC, HRAS
+  - GABC, ST
+  - STU, HJC
+  - STU, DFG
+  - STU, ACORN
+  - FHC, DHC
+  - IWGB, CAAT
+  - A2T, CAAT
+  - DHC, FH
+  - DHC, SYMAAG
+  - GF, ACORN
+  - GJS, CAS
+  - GJS, FOD
+  - GJS, ST
+  - ACORN, NUS
+  - ACORN, TC
+  - ACORN, ST
+  - NUS, TC
+  - NT, OPUS
+  - NT, FC
+  - NT, ULN
+  - NT, RDP
+  - NT, GO
+  - OPUS, SOS
+  - OPUS, CC
+  - FC, ULN
+  - ULN, RDP
+  - RDP, GO
+  - FOD, CAS
+  - TC, UNITE
+  - TC, OTJ
+  - TC, NCAFC

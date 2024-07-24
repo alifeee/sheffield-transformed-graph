@@ -1,0 +1,30 @@
+<html>
+<body>
+<script src="jquery.min.js"></script>
+<script src="springy.js"></script>
+<script src="springyui.js"></script>
+<script>
+var graph = new Springy.Graph();
+
+{{#each nodes}}
+graph.addNode(
+    new Springy.Node('{{@key}}', {label: '{{this}}'})
+)
+{{/each}}
+
+graph.addEdges(
+    {{#each edges}}
+    [{{#each this}}'{{this}}',{{/each}}, {directional: false}],
+    {{/each}}
+);
+
+jQuery(function(){
+  var springy = jQuery('#springydemo').springy({
+    graph: graph
+  });
+});
+</script>
+
+<canvas id="springydemo" width="5000" height="5000" />
+</body>
+</html>
