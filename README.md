@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/sheffield-transformed-graph/about/>
 # Sheffield Transformed Graph
 
 Graph visualisation for a local organisation noticeboard created at [Sheffield Transformed], using [SpringyJS].
